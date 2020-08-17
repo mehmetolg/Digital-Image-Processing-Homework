@@ -1,5 +1,5 @@
 # Digital-Image-Processing-Homework
-This project is my digital image processing lesson homework.
+This project is the Digital Image Processing lesson homework.
 
 <img src="https://github.com/mehmetolg/Digital-Image-Processing-Homework/blob/master/Images/1.jpg" width="600" height="600">
 <img src="https://github.com/mehmetolg/Digital-Image-Processing-Homework/blob/master/Images/2.jpg" width="600" height="600">
